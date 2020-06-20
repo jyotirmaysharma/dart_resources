@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094142068063",
+    "firebase_url": "https://undersound-db259.firebaseio.com",
+    "project_id": "undersound-db259",
+    "storage_bucket": "undersound-db259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094142068063:android:99929fa83a3366ab69e2ea",
+        "android_client_info": {
+          "package_name": "com.jyotirmaysharma.undersound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094142068063-7777aj5dsvaaqp82fg9qts6cjpd3hqqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2DyCPTb-NbAoAVqiZeharoiQpbl0jNf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094142068063-7777aj5dsvaaqp82fg9qts6cjpd3hqqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
